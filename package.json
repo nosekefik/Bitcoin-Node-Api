@@ -11,7 +11,7 @@
 
 	"dependencies":{
 		"express": "4.16.2",
-		"bitcoin": "git://github.com/nosekefik/bitcoin-core"
+		"bitcoin-core": "git://github.com/nosekefik/bitcoin-core"
 	},
 
 	"keywords": [
